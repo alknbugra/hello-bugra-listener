@@ -14,6 +14,15 @@ Türkçe sesli asistan prototipi. **React + Vite** üzerinde çalışır, **Web 
 
 ---
 
+## 📸 Ekran Görüntüleri
+
+Pasif dinleme ve aktifleşmiş durumdan örnekler:
+
+![Pasif durum](public/screenshots/pasif.png)
+![Aktif durum](public/screenshots/aktif.png)
+
+---
+
 ## 🧩 Teknolojiler
 
 - [React 18](https://react.dev/)
